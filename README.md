@@ -1,2 +1,2 @@
-# collabarative-project
-This is  collabarative project
+# collaborative-project
+This is  collaborative project
